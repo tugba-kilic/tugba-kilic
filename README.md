@@ -15,3 +15,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/tugba-kilic)  
 Tuğba Kılıç
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tugba-kilic)  
