@@ -12,8 +12,3 @@
 - 🌱 I’m currently learning Game development in Unity
 - 💬 Ask me about Game Art - 3D Modelling - UI
 - 📫 How to reach me: https://www.linkedin.com/in/tugbakilic-dev/
-
-![Profile views](https://gpvc.arturio.dev/tugba-kilic)  
-Tuğba Kılıç
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tugba-kilic)  
